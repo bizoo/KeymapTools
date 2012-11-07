@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Keymaps: Conflict Report",
+        "command": "conflict_keymaps"
+    },
+    {
+        "caption": "Keymaps: All Conflict Report",
+        "command": "all_conflict_keymaps"
+    },
+    {
+        "caption": "Keymaps: All Keymaps",
+        "command": "all_keymaps"
+    }
+]
